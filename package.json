@@ -1,7 +1,7 @@
 {
-  "name": "react-demo",
-  "version": "1.0.0",
-  "description": "react demo",
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "main": "lib/index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
@@ -14,9 +14,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:Samaritan89/react-projecy-demo.git"
+    "url": "{{gitUrl}}"
   },
-  "author": "Sunluyong",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     "@babel/preset-env": "^7.11.0",

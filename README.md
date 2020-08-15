@@ -1,4 +1,4 @@
-# react-demo
+# {{name}}
 
 ## 开发
 
